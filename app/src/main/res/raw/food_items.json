@@ -1,0 +1,26 @@
+{"fooditems":
+  [
+    {
+      "name": "test1",
+      "prot": 10,
+      "carb": 20,
+      "fat": 15,
+      "cal": 50
+    },
+    {
+      "name": "test2",
+      "prot": 15,
+      "carb": 25,
+      "fat": 20,
+      "cal": 30
+    },
+    {
+      "name": "test3",
+      "prot": 20,
+      "carb": 30,
+      "fat": 25,
+      "cal": 10
+    }
+  ]
+}
+

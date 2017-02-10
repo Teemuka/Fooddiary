@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Ruokis</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="mealTypes">
+        <item>Aamupala</item>
+        <item>Välipala</item>
+        <item>Lounas</item>
+        <item>Päivällinen</item>
+        <item>Iltapala</item>
+    </string-array>
+    <string name="userName">Kirjoita nimesi</string>
+    <string name="prot">P:</string>
+    <string name="carb">H:</string>
+    <string name="fat">R:</string>
+    <string name="cal">K:</string>
+    <string name="newfood">Lisää uusi ruoka</string>
+    <string name="amounthint">Määrä grammoissa</string>
+    <string name="namehint">Ruuan nimi</string>
+    <string name="cancel">Peruuta</string>
+    <string name="ok">OK</string>
+    <string name="name">nimesi</string>
+</resources>
